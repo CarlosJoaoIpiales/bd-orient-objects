@@ -1,0 +1,14 @@
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\Tercer Parcial\Proyecto_Final\DataBase\bin\Debug\net8.0\DataBase.deps.json
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\Tercer Parcial\Proyecto_Final\DataBase\bin\Debug\net8.0\DataBase.runtimeconfig.json
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\Tercer Parcial\Proyecto_Final\DataBase\bin\Debug\net8.0\DataBase.dll
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\Tercer Parcial\Proyecto_Final\DataBase\bin\Debug\net8.0\DataBase.pdb
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\Tercer Parcial\Proyecto_Final\DataBase\obj\Debug\net8.0\DataBase.csproj.AssemblyReference.cache
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\Tercer Parcial\Proyecto_Final\DataBase\obj\Debug\net8.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\Tercer Parcial\Proyecto_Final\DataBase\obj\Debug\net8.0\DataBase.AssemblyInfoInputs.cache
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\Tercer Parcial\Proyecto_Final\DataBase\obj\Debug\net8.0\DataBase.AssemblyInfo.cs
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\Tercer Parcial\Proyecto_Final\DataBase\obj\Debug\net8.0\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\Tercer Parcial\Proyecto_Final\DataBase\obj\Debug\net8.0\DataBase.dll
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\Tercer Parcial\Proyecto_Final\DataBase\obj\Debug\net8.0\refint\DataBase.dll
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\Tercer Parcial\Proyecto_Final\DataBase\obj\Debug\net8.0\DataBase.pdb
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\Tercer Parcial\Proyecto_Final\DataBase\obj\Debug\net8.0\DataBase.genruntimeconfig.cache
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\Tercer Parcial\Proyecto_Final\DataBase\obj\Debug\net8.0\ref\DataBase.dll
