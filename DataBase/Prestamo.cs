@@ -15,18 +15,18 @@ namespace DataBase
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int IdPrestamo { get; set; }
         public int UsuarioId { get; set; }
+        [ForeignKey(nameof(UsuarioId))]
         public bool EstadoPrestamo { get; set; }
         public DateTime FechaPrestamo { get; set; }
-
         public DateTime HoraPrestamo { get; set; }
 
-        public DateTime FechaDevolucion { get; set; }
+        public DateTime? FechaDevolucion { get; set; }
 
         // Se almacena solo la hora utilizando TimeSpan para almacenar solo la hora
-        public DateTime HoraDevolucion { get; set; }
+        public DateTime? HoraDevolucion { get; set; }
 
-        [ForeignKey(nameof(UsuarioId))]
-        public virtual Usuario Usuario { get; set; }
-        public virtual ICollection<DetallePrestamoLibro> DetallePrestamoLibros { get; set; }
+        
+        //public virtual Usuario Usuario { get; set; }
+        //public virtual ICollection<DetallePrestamoLibro> DetallePrestamoLibros { get; set; }
     }
 }

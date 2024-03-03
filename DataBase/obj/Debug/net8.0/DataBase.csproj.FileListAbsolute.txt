@@ -12,3 +12,4 @@ C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\
 C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\Tercer Parcial\Proyecto_Final\DataBase\obj\Debug\net8.0\DataBase.pdb
 C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\Tercer Parcial\Proyecto_Final\DataBase\obj\Debug\net8.0\DataBase.genruntimeconfig.cache
 C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\Tercer Parcial\Proyecto_Final\DataBase\obj\Debug\net8.0\ref\DataBase.dll
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\Tercer Parcial\Proyecto_Final\DataBase\obj\Debug\net8.0\DataBase.sourcelink.json

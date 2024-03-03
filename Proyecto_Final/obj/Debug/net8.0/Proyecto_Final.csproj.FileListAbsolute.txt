@@ -136,3 +136,4 @@ C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\
 C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\Tercer Parcial\Proyecto_Final\Proyecto_Final\obj\Debug\net8.0\Proyecto_Final.pdb
 C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\Tercer Parcial\Proyecto_Final\Proyecto_Final\obj\Debug\net8.0\Proyecto_Final.genruntimeconfig.cache
 C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\Tercer Parcial\Proyecto_Final\Proyecto_Final\obj\Debug\net8.0\ref\Proyecto_Final.dll
+C:\Users\Shadow Moon\OneDrive\Escritorio\Universidad\Quito Semestre\BD Avanzado\Tercer Parcial\Proyecto_Final\Proyecto_Final\obj\Debug\net8.0\Proyecto_Final.sourcelink.json
