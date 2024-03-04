@@ -14,8 +14,8 @@ namespace DataBase
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
-        public string Nombres { get; set; }
-        public string Apellidos { get; set; }
+        public string? Nombres { get; set; }
+        public string? Apellidos { get; set; }
 
         public virtual ICollection<DetalleLibroAutor>? DetalleLibroAutores { get; set; }
         

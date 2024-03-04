@@ -26,7 +26,7 @@ namespace DataBase
         public DateTime? HoraDevolucion { get; set; }
 
         
-        //public virtual Usuario Usuario { get; set; }
-        //public virtual ICollection<DetallePrestamoLibro> DetallePrestamoLibros { get; set; }
+        public virtual Usuario Usuario { get; set; }
+        public virtual ICollection<DetallePrestamoLibro> DetallePrestamoLibros { get; set; }
     }
 }

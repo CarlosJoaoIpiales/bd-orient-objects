@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DataBase.Migrations
 {
     [DbContext(typeof(BDContext))]
-    [Migration("20240302214330_Migracion1")]
+    [Migration("20240304012749_Migracion1")]
     partial class Migracion1
     {
         /// <inheritdoc />
@@ -173,13 +173,13 @@ namespace DataBase.Migrations
                     b.Property<bool>("EstadoPrestamo")
                         .HasColumnType("bit");
 
-                    b.Property<DateTime>("FechaDevolucion")
+                    b.Property<DateTime?>("FechaDevolucion")
                         .HasColumnType("datetime2");
 
                     b.Property<DateTime>("FechaPrestamo")
                         .HasColumnType("datetime2");
 
-                    b.Property<DateTime>("HoraDevolucion")
+                    b.Property<DateTime?>("HoraDevolucion")
                         .HasColumnType("datetime2");
 
                     b.Property<DateTime>("HoraPrestamo")
@@ -280,7 +280,7 @@ namespace DataBase.Migrations
             modelBuilder.Entity("DataBase.Libro", b =>
                 {
                     b.HasOne("DataBase.CategoriaLibro", "Categoria")
-                        .WithMany()
+                        .WithMany("Libros")
                         .HasForeignKey("CategoriaId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -313,6 +313,11 @@ namespace DataBase.Migrations
             modelBuilder.Entity("DataBase.Autor", b =>
                 {
                     b.Navigation("DetalleLibroAutores");
+                });
+
+            modelBuilder.Entity("DataBase.CategoriaLibro", b =>
+                {
+                    b.Navigation("Libros");
                 });
 
             modelBuilder.Entity("DataBase.Libro", b =>

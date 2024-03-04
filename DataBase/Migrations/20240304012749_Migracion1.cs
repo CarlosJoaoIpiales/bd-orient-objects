@@ -137,8 +137,8 @@ namespace DataBase.Migrations
                     EstadoPrestamo = table.Column<bool>(type: "bit", nullable: false),
                     FechaPrestamo = table.Column<DateTime>(type: "datetime2", nullable: false),
                     HoraPrestamo = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    FechaDevolucion = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    HoraDevolucion = table.Column<DateTime>(type: "datetime2", nullable: false)
+                    FechaDevolucion = table.Column<DateTime>(type: "datetime2", nullable: true),
+                    HoraDevolucion = table.Column<DateTime>(type: "datetime2", nullable: true)
                 },
                 constraints: table =>
                 {

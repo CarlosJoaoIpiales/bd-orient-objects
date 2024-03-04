@@ -15,6 +15,6 @@ namespace DataBase
         public int IdCategoriaLibro { get; set; }
         public string Descripcion { get; set; }
 
-        //public virtual ICollection<Libro> Libros { get; set; }
+        public virtual ICollection<Libro> Libros { get; set; }
     }
 }
